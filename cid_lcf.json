@@ -1,5 +1,10 @@
 {
-  "datas": [
+  "datas": [  
+    { 
+      "username": "admin", 
+      "userid": "0", 
+      "code": "admin" 
+    },  
     {
       "username": "growkings",
       "userid": "1034725351873576990",
