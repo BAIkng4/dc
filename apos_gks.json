@@ -3,16 +3,9 @@
 		{
 			"username": "Admin",
 			"userid": "12345",
-			"code": "Admin",
+			"code": "admin",
 			"exp_time": "30-12-2025",
 			"max_channel": 2
-		},
-		{
-			"username": "Admin",
-			"userid": "12345",
-			"code": "Admin",
-			"exp_time": "01-01-1970",
-			"max_channel": null
 		}
 	]
 }
