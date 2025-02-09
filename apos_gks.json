@@ -1,0 +1,18 @@
+{
+	"datas": [
+		{
+		 "username": "Admin",
+		 "userid": "12345",
+		 "code": "Admin",
+		 "exp_time": "30-12-2025", -- 00-00-00 for unlimited time no expried
+		 "max_channel": "2" -- null for unlimited channel
+		},
+		{
+		 "username": "Admin",
+		 "userid": "12345",
+		 "code": "Admin",
+		 "exp_time": "00-00-0000", -- 00-00-0000 for unlimited time no expried
+		 "max_channel": "null" -- null for unlimited channel
+		},
+	]
+}
