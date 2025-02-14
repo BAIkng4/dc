@@ -1,19 +1,19 @@
 {
 	"datas": [
 	{
-		"username": "Admin 1",
+		"username": "Admin",
 		"userid": "1",
 		"code": "1",
 		"exp_time": "2025-12-31 00:00",
-		"max_channel": 2,
+		"max_channel": 10,
 		"bot_description": "",
 		"messages_data": [
 		{
-			"bot_token": "TVRNek56Z3lOekV5TURJMU5qRXlNamt3TUEuRzI1Uko1LnVlS29yd2gwLXUtTlJsUmpNUjNqQ2QzZ3lZdzNFUlhVcnAxNEZB",
-			"channel_id": "1067969012501336094",
-			"cooldown": 10,
+			"bot_token": "",
+			"channel_id": "",
+			"cooldown": 0,
 			"messages": [
-				"OKE GAS"
+				""
 			]
 		}]
 	}]
