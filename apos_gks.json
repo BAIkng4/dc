@@ -16,6 +16,23 @@
 					""
 				]
 			}]
-		}             
+		},  
+		{
+			"username": "2",
+			"userid": "2",
+			"code": "2",
+			"exp_time": "0000-00-00 00:00",
+			"max_channel": 999,
+			"bot_description": "",
+			"messages_data": [
+			{
+				"bot_token": "",
+				"channel_id": "",
+				"cooldown": 0,
+				"messages": [
+					""
+				]
+			}]
+		}
 	]
 }
