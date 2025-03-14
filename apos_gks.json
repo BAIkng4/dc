@@ -16,6 +16,23 @@
 					""
 				]
 			}]
+		},  
+  {
+			"username": "kingzyron",
+			"userid": "893203841552629831",
+			"code": "8JL9n",
+			"exp_time": "2025-04-13 23:59",
+			"max_channel": 4,
+			"bot_description": "",
+			"messages_data": [
+			{
+				"bot_token": "",
+				"channel_id": "",
+				"cooldown": 0,
+				"messages": [
+					""
+				]
+			}]
 		}
 	]
 }
