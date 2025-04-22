@@ -18,6 +18,23 @@
 			}]
 		},  
   {
+			"username": "j.oliv_r",
+			"userid": "920636576596365423",
+			"code": "Lk2bV",
+			"exp_time": "2025-05-22 23:59",
+			"max_channel": 4,
+			"bot_description": "",
+			"messages_data": [
+			{
+				"bot_token": "",
+				"channel_id": "",
+				"cooldown": 0,
+				"messages": [
+					""
+				]
+			}]
+		},    
+  {
 			"username": "reenmarket",
 			"userid": "905645095653621830",
 			"code": "v7jNB",
