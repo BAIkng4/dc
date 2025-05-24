@@ -17,7 +17,24 @@
 				]
 			}]
 		},  
-  {
+		{
+			"username": "jeydejeyde",
+			"userid": "379136420566007809",
+			"code": "nJ9n2",
+			"exp_time": "2025-06-23 23:59",
+			"max_channel": 4,
+			"bot_description": "",
+			"messages_data": [
+			{
+				"bot_token": "",
+				"channel_id": "",
+				"cooldown": 0,
+				"messages": [
+					""
+				]
+			}]
+		},
+  		{
 			"username": "j.oliv_r",
 			"userid": "920636576596365423",
 			"code": "Lk2bV",
