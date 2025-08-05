@@ -16,6 +16,23 @@
 					""
 				]
 			}]
+		}, 
+  {
+			"username": "REENMARKET",
+			"userid": "905645095653621830",
+			"code": "318aN",
+			"exp_time": "2025-09-04 23:59",
+			"max_channel": 4,
+			"bot_description": "",
+			"messages_data": [
+			{
+				"bot_token": "",
+				"channel_id": "",
+				"cooldown": 0,
+				"messages": [
+					""
+				]
+			}]
 		},  
 		{
 			"username": "daboy5730",
